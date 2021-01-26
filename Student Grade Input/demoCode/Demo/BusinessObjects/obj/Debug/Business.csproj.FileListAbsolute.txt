@@ -1,0 +1,12 @@
+D:\Users\seanm\Desktop\OOSD CS1\demoCode\Demo\BusinessObjects\bin\Debug\BusinessObjects.dll
+D:\Users\seanm\Desktop\OOSD CS1\demoCode\Demo\BusinessObjects\bin\Debug\BusinessObjects.pdb
+D:\Users\seanm\Desktop\OOSD CS1\demoCode\Demo\BusinessObjects\obj\Debug\Business.csprojResolveAssemblyReference.cache
+D:\Users\seanm\Desktop\OOSD CS1\demoCode\Demo\BusinessObjects\obj\Debug\Business.csproj.CoreCompileInputs.cache
+D:\Users\seanm\Desktop\OOSD CS1\demoCode\Demo\BusinessObjects\obj\Debug\BusinessObjects.dll
+D:\Users\seanm\Desktop\OOSD CS1\demoCode\Demo\BusinessObjects\obj\Debug\BusinessObjects.pdb
+F:\Uni\Year 2\Object Oriented Software Development\OOSD CW1\demoCode\Demo\BusinessObjects\bin\Debug\BusinessObjects.dll
+F:\Uni\Year 2\Object Oriented Software Development\OOSD CW1\demoCode\Demo\BusinessObjects\bin\Debug\BusinessObjects.pdb
+F:\Uni\Year 2\Object Oriented Software Development\OOSD CW1\demoCode\Demo\BusinessObjects\obj\Debug\Business.csprojResolveAssemblyReference.cache
+F:\Uni\Year 2\Object Oriented Software Development\OOSD CW1\demoCode\Demo\BusinessObjects\obj\Debug\BusinessObjects.dll
+F:\Uni\Year 2\Object Oriented Software Development\OOSD CW1\demoCode\Demo\BusinessObjects\obj\Debug\BusinessObjects.pdb
+F:\Uni\Year 2\Object Oriented Software Development\OOSD CW1\demoCode\Demo\BusinessObjects\obj\Debug\Business.csproj.CoreCompileInputs.cache

@@ -1,0 +1,5 @@
+D:\Users\seanm\Desktop\Build-A-Bike\BusinessObjects\bin\Debug\BusinessObjects.dll
+D:\Users\seanm\Desktop\Build-A-Bike\BusinessObjects\bin\Debug\BusinessObjects.pdb
+D:\Users\seanm\Desktop\Build-A-Bike\BusinessObjects\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Users\seanm\Desktop\Build-A-Bike\BusinessObjects\obj\Debug\BusinessObjects.dll
+D:\Users\seanm\Desktop\Build-A-Bike\BusinessObjects\obj\Debug\BusinessObjects.pdb

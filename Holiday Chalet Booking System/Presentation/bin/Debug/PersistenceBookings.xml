@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBooking xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Booking>
+    <ArrivalDate>2017-12-11T00:00:00</ArrivalDate>
+    <DepartureDate>2017-12-12T00:00:00</DepartureDate>
+    <ChaletID>2</ChaletID>
+    <BookingReference>1</BookingReference>
+    <GuestList />
+    <Customer>
+      <Name>Sean</Name>
+      <Address>Mooney</Address>
+      <CustomerReference>1</CustomerReference>
+    </Customer>
+    <EveningMeals>true</EveningMeals>
+    <Breakfast>true</Breakfast>
+  </Booking>
+</ArrayOfBooking>
